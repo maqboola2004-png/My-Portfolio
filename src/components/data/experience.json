@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Front-End (React.Js & Next.Js Developer)",
+     "organisation": "Freelancing",
+   "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "location": "CA,United State",
+    "experiences": [
+      "Worked on Crud Application"
+      
+    ],
+    "imageSrc": "company/google.png"
+  },
+  {
+    "id": 2,
+    "role": "Front-End (React.Js & Next.Js Developer)",
+    "organisation": "Mirosoft",
+    "startDate": "Aug, 2022",
+    "endDate": "Aug, 2023",
+    "location": "London, UK",
+    "experiences": [
+      "Worked on Modern charts & DasHboards"
+      
+    ],
+    "imageSrc": "company/microsoft.png"
+  },
+  {
+    "id": 3,
+    "role": "Front-End (React.Js & Next.Js Developer)",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2021",
+    "endDate": "Jun, 2022",
+    "location": "Lahore, Pakistan",
+    "experiences": [
+      "Worked on ToDo Application "
+      
+    ],
+    "imageSrc": "company/netflix.png"
+  }
+]
